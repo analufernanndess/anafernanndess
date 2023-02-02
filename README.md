@@ -1,5 +1,6 @@
 - 👋 Oi, seja bem vindo(a)
-- 🌱 Atualmente faço Engenharia de Software - UnB
+- 🌱 Atualmente faço Engenharia de Software - UnB 
+- 🔭 Estagiando no Senado Federal.
 
 <!---
 anafernanndess/anafernanndess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
